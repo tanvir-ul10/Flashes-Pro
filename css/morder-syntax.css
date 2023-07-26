@@ -1,0 +1,4 @@
+/*<![CDATA[*/
+/* Morder syntax */
+.preCv{position:relative;display:flex;align-items:center;justify-content:space-between;padding:10px 10px 11px;border-bottom:1px solid var(--borderC)}.pre.ta pre{padding:20px}.preCv .m .b{width:12px;height:12px;background:#fff;border-radius:50px;z-index:2}.preCv .m{display:flex;gap:5px;padding-left:5px}.preCv .k::after{content:attr(data-text);display:flex;justify-content:center;align-items:center;width:100%;background:inherit;color:var(--synxGray);font-size:10px;line-height:0;padding-right:5px}.pre:hover .preCv .k::after{content:'Double Click to Copy | ' attr(data-text)}.preCv .m .b.b-1{background:#ffa700}.preCv .m .b.b-2{background:#5cff00}.preCv .m .b.b-3{background:#0093ff}
+/*]]>*/
